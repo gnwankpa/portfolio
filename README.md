@@ -1,6 +1,6 @@
 # Welcome to My GitHub Projects Portfolio! 🌟
 
-Here, you'll find a curated list of projects I've developed or contributed to, showcasing a variety of skills in web development, application design, and more. Please explore the links to see live examples and details about each project.
+Welcome to my GitHub Projects Portfolio! With a background in enterprise software development at renowned corporations such as Microsoft and Cisco, as well as dynamic roles in various startups, this repository offers a curated showcase of my capabilities with other smaller projects I am able to share. Here, you'll discover a range of projects I've either developed or contributed to, highlighting my diverse skills in web development, application design, and beyond. Please explore the provided links for live demonstrations and detailed insights into each project.
 
 ## Projects Overview
 
