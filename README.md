@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Projects Portfolio! This repository offers a curated showcase of my capabilities in enterprise software development, highlighting a range of projects I've developed or contributed to. You'll find projects demonstrating my skills in web development, application design, and beyond. Please explore the provided links for live demonstrations and detailed insights into each project.
 
-## Repository Content
+## 👨‍💻 Repository Content
 
 | 📂 Folder | Description |
 |-----------|-------------|
