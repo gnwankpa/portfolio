@@ -1,6 +1,17 @@
 # Welcome to My GitHub Projects Portfolio! 🌟
 
-Welcome to my GitHub Projects Portfolio! With a background in enterprise software development at renowned corporations such as Microsoft and Cisco, as well as dynamic roles in various startups, this repository offers a curated showcase of my capabilities with other smaller projects I am able to share. Here, you'll discover a range of projects I've either developed or contributed to, highlighting my diverse skills in web development, application design, and beyond. Please explore the provided links for live demonstrations and detailed insights into each project.
+Welcome to my GitHub Projects Portfolio! This repository offers a curated showcase of my capabilities in enterprise software development, highlighting a range of projects I've developed or contributed to. You'll find projects demonstrating my skills in web development, application design, and beyond. Please explore the provided links for live demonstrations and detailed insights into each project.
+
+## Repository Content
+
+| 📂 Folder | Description |
+|-----------|-------------|
+| **Full Stack Projects** | Projects displaying data from a REST API, dynamic front-end styling and sorting, using Node.js, React.js, Express.js, and async code. |
+| **RegexPractice** | Practice and implementation of regular expressions for various use cases. |
+| **algorithms** | Collection of algorithm challenges and solutions. |
+| **eventEmitterPract** | Practice projects utilizing Node.js event emitters for asynchronous event handling. |
+| **scrape_practice** | Web scraping projects using various tools and libraries. |
+| **wordMatching** | Projects focused on word matching algorithms and applications. |
 
 ## Projects Overview
 
@@ -13,6 +24,8 @@ Welcome to my GitHub Projects Portfolio! With a background in enterprise softwar
 | **[BitMetrix](https://bitmetrix.io/)** | Corporate website for a software consulting service, emphasizing professional solutions. | HTML, CSS, JavaScript, Node.js, Python | [Visit Site](https://bitmetrix.io/) |
 | **[Cope PT](https://www.copept.com/)** | Medical practice website specializing in women's health physical therapy. | HTML, CSS, JavaScript | [Visit Site](https://www.copept.com/) |
 | **[Umuokpungwa](https://umuokpungwa.org/)** | Non-profit organization's website supporting Nigerian diaspora-based projects. | HTML, CSS, JavaScript | [Visit Site](https://umuokpungwa.org/) |
+
+
 
 ## Development Approach
 
