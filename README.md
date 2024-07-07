@@ -39,6 +39,5 @@ Welcome to my GitHub Projects Portfolio! This repository offers a curated showca
 
 ## Connect With Me
 
-Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/gene-n-234728126/) for more updates and professional connections.
 
 Thank you for visiting my GitHub portfolio! 🚀
