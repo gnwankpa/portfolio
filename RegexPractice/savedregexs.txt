@@ -1,4 +1,0 @@
-\b\w+\b
-
-https://www.youtube.com/watch?v=W7S_Vmq0GSs
-

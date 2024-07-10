@@ -16,21 +16,6 @@ Welcome to my GitHub Projects Portfolio! This repository offers a curated showca
 | **[Umuokpungwa](https://umuokpungwa.org/)** | Non-profit organization's website supporting Nigerian diaspora-based projects. | HTML, CSS, JavaScript | [Visit Site](https://umuokpungwa.org/) |
 
 
-## 👨‍💻 Repository Content
-
-| 📂 Folder | Description |
-|-----------|-------------|
-| **Full Stack Projects** | Projects displaying data from a REST API, dynamic front-end styling and sorting, using Node.js, React.js, Express.js, and async code. |
-| **RegexPractice** | Practice and implementation of regular expressions for various use cases. |
-| **algorithms** | Collection of algorithm challenges and solutions. |
-| **eventEmitterPract** | Practice projects utilizing Node.js event emitters for asynchronous event handling. |
-| **scrape_practice** | Web scraping projects using various tools and libraries. |
-| **wordMatching** | Projects focused on word matching algorithms and applications. |
-
-
-
-
-
 ## Development Approach
 
 - 🔄 **Agile Development:** All projects are developed using Agile methodologies, particularly Kanban to ensure timely delivery and adaptability.
